@@ -4,8 +4,8 @@
 
 - 🎓 I'm a **MSc. Student at METU**
 
-- 🌱 I’m currently learning **SQL and Python**
+- 🌱 I'm currently learning **SQL and Python**
 
 - ⚡ Fun fact: **I am a polyglot!**
 
-- 📫 How to reach me **sbusesimsek@gmail.com**
+- 📫 How to reach me: **sbusesimsek@gmail.com**
