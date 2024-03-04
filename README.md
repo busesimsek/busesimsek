@@ -2,7 +2,7 @@
 <h2 align="center">Hi 👋, I'm Buse</h2>
 <h3 align="center">A passionate data analyst candidate from Turkey</h3>
 
-- 🎓 I'm a **MSc. Student at METU**
+- 🎓 I'm a **MSc Student at METU**
 
 - 🌱 I'm currently learning **SQL and Python**
 
