@@ -8,7 +8,7 @@
       <ul>
         <li>🎓 I'm a <b>MSc. Student at METU</b></li>
         <li>👩🏻‍💻 I’m currently working on <b>a Python project</b></li>
-        <li>📊 I recently finished <b>an SQL Exploratory Data Analysis Project</b></li>
+        <li>📊 I recently finished <b>an SQL EDA Project</b></li>
         <li>📖 I'm currently learning <b>Python and Advanced SQL</b></li>
         <li>🌍 Fun fact: <b>I am a polyglot!</b></li>
         <li>📫 How to reach me: <b>sbusesimsek@gmail.com</b></li>
