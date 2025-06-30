@@ -7,7 +7,7 @@
       <h3>Hi 👋🏻, I'm Buse, a Junior Data Analyst from Turkey</h3>
       <ul>
         <li>🎓 I'm a <b>MSc. Student at METU</b></li>
-        <li>👩🏻‍💻 I’m currently working on <b>a Python project</b></li>
+        <li>👩🏻‍💻 I’m currently working on <b>an Excel Dashboard project</b></li>
         <li>📊 Completed <b>"SQL Exploratory Data Analysis Project"</b></li>
         <li>📖 I'm currently learning <b>Python and Advanced SQL</b></li>
         <li>🌍 Fun fact: <b>I am a polyglot!</b></li>
