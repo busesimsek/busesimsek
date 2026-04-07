@@ -7,7 +7,7 @@
       <h3>Hi 🙋🏻‍♀️, I’m Buse</h3>
       <ul>
         <li>💻 I work as a <b>Data Analyst / Researcher</b></li>
-        <li>📊 Completed <b>"Retail Sales Dashboard Project"</b></li>
+        <li>📊 I completed <b>"Retail Sales Dashboard Project"</b></li>
         <li>📖 I learn about <b>Python libraries and Advanced SQL</b></li>
         <li>🌍 Fun fact: <b>I'm a polyglot!</b></li>
         <li>📫 How to reach me: <b>sbusesimsek@gmail.com</b></li>
